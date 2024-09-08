@@ -1,14 +1,19 @@
-\documentclass[a4paper,11pt,oneside]{book}
+\documentclass[a4paper,11pt,openany]{book}
 \linespread{1.25}
 
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
+\usepackage{csquotes}
 
 \usepackage{amsmath,amsfonts,amsthm,amssymb,dsfont}
-\usepackage{graphicx,wrapfig,lipsum}
+\usepackage{graphicx}
+\graphicspath{{img/}}
+\usepackage{float}
 
 \usepackage[section]{placeins}
-\usepackage[numbers,sort&compress]{natbib}
+\usepackage{biblatex}
+\addbibresource{Tesis.bib}
+
 
 \usepackage{tikz}
 \usetikzlibrary{shapes.geometric,decorations.markings}
@@ -69,7 +74,9 @@
 \begin{center}
 
 
-\includegraphics[scale=0.35]{logo} \vspace{0.5cm}
+\includegraphics[scale=0.35]{logo.jpg}
+
+
 
 \textsc{\Large Avance de proyecto } \vspace{0.5cm} % Thesis type
 
@@ -194,10 +201,7 @@ Centro de Investigación en Ingeniería Molecular
 %--------------------------------------------------------------------
 %	BIBLIOGRAPHY
 %--------------------------------------------------------------------
-
-\bibliographystyle{JHEP}
-
-\bibliography{ref} 
+\printbibliography
 
 %-------------------------------------------------------------------
 

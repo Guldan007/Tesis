@@ -1,0 +1,100 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Lei2017}{article}{}
+      \name{author}{8}{}{%
+        {{hash=c9ada906b647994df24e2e081f7afeb9}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bf3ac8726194ac9b9564d775151c5b74}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Yanhua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=30270e36416f7eb3ebc155c1a6922739}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xia},
+           giveni={X\bibinitperiod}}}%
+        {{hash=a06a2b36ee441b7bba1094a25c0174b4}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={Evan\bibnamedelima T.},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=c5d2100c9fe230b6d1cff53e082a5aca}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Chao-Nan},
+           giveni={C\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=112faefb37293f52cd92c3bb36fcc08b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=82ecbae219cd3e89336a57aaa4226294}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {651 DONGFENG RD E, GUANGZHOU, GUANGDONG 510060, PEOPLES R CHINA}%
+      }
+      \list{publisher}{1}{%
+        {SUN YAT SEN UNIV MED SCI WHO}%
+      }
+      \strng{namehash}{9a7ea3f0dd7d43a9366d10e6c3134ea4}
+      \strng{fullhash}{56f628e3b4a3d0b7cd015536f7c23e30}
+      \strng{bibnamehash}{9a7ea3f0dd7d43a9366d10e6c3134ea4}
+      \strng{authorbibnamehash}{9a7ea3f0dd7d43a9366d10e6c3134ea4}
+      \strng{authornamehash}{9a7ea3f0dd7d43a9366d10e6c3134ea4}
+      \strng{authorfullhash}{56f628e3b4a3d0b7cd015536f7c23e30}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Metformin, an inexpensive and well-tolerated oral agent commonly used in the first-line treatment of type 2 diabetes, has become the focus of intense research as a candidate anticancer agent. Here, we discuss the potential of metformin in cancer therapeutics, particularly its functions in multiple signaling pathways, including AMP-activated protein kinase, mammalian target of rapamycin, insulin-like growth factor, c-Jun N-terminal kinase/mitogen-activated protein kinase (p38 MAPK), human epidermal growth factor receptor-2, and nuclear factor kappaB pathways. In addition, cutting-edge targeting of cancer stem cells by metformin is summarized.}
+      \field{issn}{1000-467X}
+      \field{journaltitle}{CHINESE JOURNAL OF CANCER}
+      \field{month}{1}
+      \field{title}{Metformin targets multiple signaling pathways in cancer}
+      \field{type}{Review}
+      \field{volume}{36}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1186/s40880-017-0184-9
+      \endverb
+      \keyw{Metformin; Signaling pathway; Cancer stem cell; Cancer}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
